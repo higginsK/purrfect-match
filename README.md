@@ -1,2 +1,2 @@
 # purrfect-match
-Learning Bootstrap for front-end (from Udemy)
+A simple splash page using Bootstrap (from learning Bootstrap course via Udemy)
